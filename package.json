@@ -13,16 +13,10 @@
   ],
   "homepage": "https://github.com/marcoETmx/Random-name#readme",
   "repository": "github:marcoETmx/Random-name",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "author": "Marco Elizalde <contacto@marcoelizalde.com> (https://www.marcoelizalde.com/)",
   "license": "MIT",
   "bin": {
     "random-name": "./bin/global.js"
   },
-  "preferGlobal": true,
-  "dependencies": {},
-  "devDependencies": {},
-  "optionalDependencies": {}
+  "preferGlobal": true
 }
